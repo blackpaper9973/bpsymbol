@@ -1,4 +1,4 @@
-from utils import deep_extend
+from bpsymbol.utils import deep_extend
 
 class SymbolAbstract:
     base = {

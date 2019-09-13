@@ -1,5 +1,4 @@
-from utils import deep_extend
-from bloomberg import BloombergSymbol
+from bpsymbol.bloomberg import BloombergSymbol
 """
 [*] Bloomberg
     005380 KS Equity

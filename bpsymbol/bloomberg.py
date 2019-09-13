@@ -1,5 +1,5 @@
-from abstract import SymbolAbstract
-from utils import deep_extend
+from bpsymbol.abstract import SymbolAbstract
+from bpsymbol.utils import deep_extend
 
 class BloombergSymbol(SymbolAbstract):
     def __init__(self, symbol, params={}):
